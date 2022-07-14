@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Johnny Augusto",
+        "phone": "809-312-5342",
+        "dateofbirth": "21/02/1997",
+        "addres": "av 1 # 007 n",
+        "email": "johnny45@hotmail.com"
+    },
+    {
+        "id": 1,
+        "name": "Wilkins Alejandro",
+        "phone": "849-574-9123",
+        "dateofbirth": "07/07/1987",
+        "addres": "av 1 # 008 n",
+        "email": "King@hotmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Harvis Joel",
+        "phone": "809-967-2346",
+        "dateofbirth": "29/12/1979",
+        "addres": "av 1 # 009 n",
+        "email": "Hjoel20@hotmail.com"
+    }
+]

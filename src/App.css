@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    color: white;
+    background-color: #1C1C1C;
+    font-family: Lato, san-serif;
+}
+
+h1{
+    color: #1C1C1C;
+    font-size: 25px;
+    font-family: Roboto, san-serif;
+}
+
+.app{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-container{
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    width: 200px;
+}
+
+.contact{
+    display: flex;
+    column-gap: 2em;
+    padding: 3em;
+}
+
+.contact-list{
+    display: grid;
+    width: 80%;
+    background-color: #d0d0d5;
+    margin: auto;
+    text-align: center;
+    min-height: 720px;
+    padding: 20px;
+    border-radius: 26px;
+}
+
+.contact-from{
+    text-align: center;
+}

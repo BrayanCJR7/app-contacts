@@ -1,0 +1,27 @@
+.contact-form {
+    width: 360px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    row-gap: 2em;
+}
+
+.contact-input {
+    width: 350px;
+    font-size: 18px;
+    background-color: white;
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #1b1b32;
+    outline: none;
+}
+
+.button-contact{
+    width: 150px;
+    height: 40px;
+    font-weight: 800;
+    background-color: #1b1b32;
+    color: white;
+    cursor: pointer;
+}
